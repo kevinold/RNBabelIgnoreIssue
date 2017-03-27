@@ -1,0 +1,3 @@
+rootProject.name = 'RNBabelIgnoreIssue'
+
+include ':app'
